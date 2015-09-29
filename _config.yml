@@ -1,0 +1,25 @@
+# Site settings
+title: Turning the Other Cheek
+email: whahn09@gmail.com
+description: Wayne's story about fighting colorectal cancer.
+url: "hhttp://waynehahn.github.io"
+twitter_username: whahn09
+facebook_username:  wayne.hahn.5
+paginate: 3
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
