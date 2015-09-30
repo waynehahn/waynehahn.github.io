@@ -11,4 +11,4 @@ This is a list of what we've found to help!  We will be updating this page when 
 4. Humor
 5. Vino
 6. Confidence in your healthcare team.
-7. 
+7. Johns Hopkins Colorectal team

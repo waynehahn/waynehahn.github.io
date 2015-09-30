@@ -43,12 +43,13 @@ h4 {
 }
 
 a {
-	color: $color-primary; 
+	color: $color-primary;
 	text-decoration: none;
 	font-weight: $font-weight--medium;
 }
 
 p {
+	
 	margin: 0 0 em(30px, 18px);
 	font-weight: $font-weight--light;
 	font-size: em(18px);
@@ -59,7 +60,7 @@ blockquote {
 	@include mq(medium) {
 		margin: em(32px, 24px) 0;
 		padding: 0 0 0 5%;
-		border-left: em(8px, 24px) solid palette(grey, xx-light); 
+		border-left: em(8px, 24px) solid palette(grey, xx-light);
 		font-size: em(24px);
 	}
 	font-weight: $font-weight--light;
@@ -86,16 +87,16 @@ img {
 
 // Form elements
 
-input, 
+input,
 textarea {
 	display: block;
 	padding: 15px;
-	width: 100%; 
+	width: 100%;
 	outline: 0;
 	border: 0;
 }
 
-input:focus, 
+input:focus,
 textarea:focus {
 	transition: $trns_duration;
 }
@@ -114,5 +115,6 @@ footer {
 		font-size: em(16px);
 		margin-top: em(22px, 16px);
 		color: palette(grey, light);
+
 	}
 }

@@ -3,4 +3,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Hey there! To get in touch, [send me an email](mailto:{{ site.email }}) or <a href="https://facebook.com/{{ site.facebook_username }}"> find me on Facebook</a>!
+Hey there! It would be great to hear from you.  You can send me a message here, just fill out the form and click "send."

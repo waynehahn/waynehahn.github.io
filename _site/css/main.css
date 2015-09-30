@@ -1,4 +1,4 @@
-@import url("http://fonts.googleapis.com/css?family=PT+Sans:400,700");
+@import url("http://fonts.googleapis.com/css?family=PT+sans");
 .grid:after, .main-header:after {
   content: "";
   display: table;
@@ -235,7 +235,7 @@ h4 {
       margin-top: 2.625em; } }
 
 a {
-  color: #6dbcda;
+  color: #6495ED;
   text-decoration: none;
   font-weight: 400; }
 
@@ -533,7 +533,7 @@ footer {
 
 .nav__item--current a, .nav__item a:hover {
   color: #0b0b0b;
-  border-color: #6dbcda; }
+  border-color: #6495ED; }
 
 h1, .post__title, .post__title--grouped {
   color: #656a6e;
@@ -595,7 +595,7 @@ h2 {
   margin-top: 0.125em;
   margin-bottom: 1.625em; }
 .post__author {
-  color: #6dbcda;
+  color: #6495ED;
   font-weight: 700; }
 .post__sep {
   color: #d6d7d9;
@@ -628,7 +628,7 @@ h2 {
     color: #525559; }
 
 .btn--default {
-  background-color: #6dbcda; }
+  background-color: #6495ED; }
 .btn--success {
   background-color: #5ece7f; }
 .btn--error {
@@ -666,11 +666,11 @@ h2 {
 
 .site-logo {
   text-transform: uppercase;
-  font-weight: 700;
-  font-size: 1.25em;
+  font-weight: 400;
+  font-size: 1.875em;
   display: block;
   text-align: center;
-  color: #339fc8; }
+  color: #1f66e5; }
   @media (min-width: 1px) and (max-width: 768px) {
     .site-logo {
       margin-top: 20px;

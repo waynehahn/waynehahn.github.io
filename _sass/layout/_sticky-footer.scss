@@ -3,7 +3,7 @@
 // ==========================================================================
 
 @include mq(medium) {
-	html, 
+	html,
 	body {
 		height: 100%;
 	}
@@ -11,8 +11,9 @@
 		min-height: 100%;
 		margin: 0 auto -10em;
 	}
-	footer, 
+	footer,
 	.push {
 		height: em(197px);
 	}
+
 }
