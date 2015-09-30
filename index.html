@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<<<<<<< HEAD
 <div class="hero is-hidden-mobile"></div>
 <div class="grid">
   <div class="grid__col--12">
@@ -46,4 +47,25 @@ layout: default
     </div>
     {% endif %}
   </div>
+=======
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+>>>>>>> origin/master
 </div>
