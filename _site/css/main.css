@@ -216,8 +216,11 @@ th {
 body {
   color: #797e83;
   font-size: 16px;
-  font-family: "Fjalla One", sans-serif;
+  font-family: "Cantarell", sans-serif;
   line-height: 1.5; }
+
+h1 {
+  font-family: "Fjalla One", sans-serif; }
 
 h3 {
   font-size: 1.125em; }
@@ -540,7 +543,8 @@ h1, .post__title, .post__title--grouped {
   font-weight: 300;
   font-size: 2.5em;
   line-height: 1.15;
-  margin-top: 0; }
+  margin-top: 0;
+  font-family: "Fjalla One", sans-serif; }
 
 h2 {
   color: #999da1;
@@ -666,6 +670,7 @@ h2 {
 
 .site-logo {
   text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
   font-weight: 400;
   font-size: 1.875em;
   display: block;
@@ -701,16 +706,11 @@ h2 {
 
 .hero {
   height: 75vh;
-  background: url("../img/bg-main.jpg"), linear-gradient(#75da8f, #77cae9);
+  background: url("../img/bg-main.jpg"), linear-gradient(#DADCE2, #8D9192);
   background-blend-mode: multiply;
   background-repeat: no-repeat;
   background-size: cover;
   margin-bottom: 3.125em; }
-
-.hero h1 {
-  color: white;
-  margin: 0;
-  padding: 20px; }
 
 .icn--nav-toggle {
   width: 25px;

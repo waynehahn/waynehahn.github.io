@@ -1,6 +1,6 @@
 ---
-title: Contact
-permalink: /contact/
+title: Photos
+permalink: /photos/
 ---
 
-Hey there! It would be great to hear from you. 
+Hey there! We are working on a photo gallery soon!

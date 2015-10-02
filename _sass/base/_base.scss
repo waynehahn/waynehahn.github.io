@@ -10,7 +10,7 @@
 body {
 	color: palette(grey);
   font-size: $base__font-size;
-  font-family: $font-family--primary;
+  font-family: $font-family--secondary;
   line-height: ($base__line/$base__font-size);
 
 }
@@ -19,6 +19,7 @@ body {
 
 h1 {
 	@extend %hdln-prim;
+	font-family: $font-family--primary;
 }
 
 h2 {
@@ -49,7 +50,7 @@ a {
 }
 
 p {
-	
+
 	margin: 0 0 em(30px, 18px);
 	font-weight: $font-weight--light;
 	font-size: em(18px);
