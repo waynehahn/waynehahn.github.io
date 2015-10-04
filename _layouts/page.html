@@ -8,7 +8,9 @@ layout: default
 	  <header class="post__header">
 	    <h1 class="headline-primary">{{ page.title }}</h1>
 	  </header>
-
+		{% if page.image %}
+		<img class="feat-img is-hidden-mobile" src="/img/{{ page.image }}">
+		{% endif %}
 	  <article class="post__content">
 	  {{ content }}
 	  </article>

@@ -3,6 +3,7 @@ title:  "Welcome to Wayne's Journey!"
 date:   2015-09-29 09:45:36
 image:  none
 categories: welcome pre
+author: Frani
 ---
 
 We've provided a way for you to stay updated on Wayne's progress.  We'll try to keep this as current as possible.  We thank you for your prayers and support throughout this part of our life.  We couldn't do it without you.

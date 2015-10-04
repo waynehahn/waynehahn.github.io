@@ -1,6 +1,7 @@
 ---
 title: Resources
 permalink: /resources/
+image: family_pic.jpg
 ---
 
 This is a list of what we've found to help!  We will be updating this page when there is more to offer.

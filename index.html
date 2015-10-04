@@ -9,7 +9,12 @@ layout: default
         <li class="post__item">
           <a class="post__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div class="post__meta">
-            <b class="post__author">{{ post.author }}</b>
+            {% assign author = site.data.people[page.author] %}
+      				<b><a rel="author"
+      				  href="{{ author.facebook_username}}"
+      				  title="{{ author.name }}">
+      				    {{ author.name }}
+      				</a></b>
             <b class="post__sep">&#x25cf;</b>
             <b class="post__date">{{ post.date | date: "%b %-d, %Y" }}</b>
           </div>
