@@ -6,16 +6,18 @@
       <a class="site-logo" href="/" title="waynehahn.github.io – Home">Turning The Other Cheek</a>
       <nav class="navbar" role="navigation">
         <ul class="nav">
+          <li><a href="/">Blog</li>
         {% for page in site.pages %}
+
           <!-- Compare the page title to the URL -->
           {% assign current = page.title | downcase %}
 
           {% if page.title %}
+
           <li {% if location == current %} class="nav__item--current" {% else %} class="nav__item" {% endif %}>
             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           </li>
           {% endif %}
-
         {% endfor %}
         </ul>
       </nav>

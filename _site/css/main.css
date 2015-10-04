@@ -219,9 +219,6 @@ body {
   font-family: "Cantarell", sans-serif;
   line-height: 1.5; }
 
-h1 {
-  font-family: "Fjalla One", sans-serif; }
-
 h3 {
   font-size: 1.125em; }
 
@@ -288,6 +285,7 @@ button {
 footer {
   border-top: 1px solid #e8e9ea; }
   footer p {
+    font-family: "Fjalla One", sans-serif;
     font-size: 1em;
     margin-top: 1.375em;
     color: #999da1; }
@@ -607,6 +605,19 @@ h2 {
 .post__date {
   color: #999da1;
   font-size: 0.9375em; }
+
+.share-page {
+  text-align: center;
+  background: #39add1;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 1.5; }
+  .share-page a {
+    font-weight: 700;
+    color: #fff;
+    margin-left: 10px; }
+    .share-page a:hover {
+      border-bottom: 1px dashed #fff; }
 
 .img--wrap {
   border: 1px solid #d6d7d9;

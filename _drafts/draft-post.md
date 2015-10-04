@@ -1,8 +1,13 @@
 ---
 layout: post
-title: "Draft Post"
-category: food
-author: Zizi Hahn
+title: ""
+category:
+author:
+image:
 ---
 
-This is a post about
+<!-- insert your posting here -->
+
+<!-- insert image in post here.  This is not the feature image, which goes in the front matter. ![Image blurb]({{ site.url }}/img/image-name-here.jpg) -->
+
+<!-- format for linking a site: [Google](http://www.google.com) -->

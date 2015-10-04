@@ -19,7 +19,6 @@ body {
 
 h1 {
 	@extend %hdln-prim;
-	font-family: $font-family--primary;
 }
 
 h2 {
@@ -113,6 +112,7 @@ button {
 footer {
 	border-top: 1px solid palette(grey, xx-light);
 	p {
+		font-family: $font-family--primary;
 		font-size: em(16px);
 		margin-top: em(22px, 16px);
 		color: palette(grey, light);

@@ -7,7 +7,17 @@ layout: default
     <header class="post__header">
       <h1 class="post__title--grouped">{{ page.title }}</h1>
       <div class="post__meta">
-        <b class="post__author">{% if page.author %}{{ page.author }}{% endif %}</b>
+        
+
+				<!-- Attempting to add choice of author for post -->
+				{% assign author = site.data.people[page.author] %}
+				<a rel="author"
+				  href="{{ author.facebook_username}}"
+				  title="{{ author.name }}">
+				    {{ author.name }}
+				</a>
+				<!-- End of author choice -->
+
         <b class="post__sep">&#x25cf;</b>
         <b class="post__date">{{ page.date | date: "%b %-d, %Y" }}</b>
       </div>
@@ -18,7 +28,7 @@ layout: default
     <article class="post__content">
       {{ content }}
     </article>
-
+		{% include share-page.html %}
     {% include disqus.html disqus_identifier=page.disqus_identifier %}
 	</div>
 </div>
