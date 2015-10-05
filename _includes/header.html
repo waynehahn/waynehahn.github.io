@@ -3,22 +3,22 @@
 <header class="main-header" role="banner">
   <div class="grid">
     <div class="grid__col--12">
-      <a class="site-logo" href="/" title="waynehahn.github.io – Home">Turning The Other Cheek</a>
+      <a class="site-logo" href="/" title="Turning The Other Cheek – Home">
+        Turning The Other Cheek
+      </a>
       <nav class="navbar" role="navigation">
         <ul class="nav">
-
         {% for page in site.pages %}
-
           <!-- Compare the page title to the URL -->
           {% assign current = page.title | downcase %}
 
           {% if page.title %}
-
+          <!-- Highlight item if it matches the current URL -->
           <li {% if location == current %} class="nav__item--current" {% else %} class="nav__item" {% endif %}>
             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          <li class="nav__item"><a href="/">Blog</li>
           </li>
           {% endif %}
+
         {% endfor %}
         </ul>
       </nav>
