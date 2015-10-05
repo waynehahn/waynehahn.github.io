@@ -1,5 +1,5 @@
 @import url("http://fonts.googleapis.com/css?family=Fjalla+One");
-.grid:after, .main-header:after {
+.grid:after, .main-header:after, .author-box:after {
   content: "";
   display: table;
   clear: both; }
@@ -734,6 +734,41 @@ h2 {
     height: 3px;
     background: #999da1;
     top: 4px; }
+
+.author-box {
+  margin-top: 1.25em;
+  border-top: 1px dotted #999da1;
+  padding-top: 2.375em; }
+  @media (min-width: 768px) {
+    .author-box {
+      margin-top: 2.625em; } }
+  .author-box a {
+    display: block; }
+    @media (min-width: 768px) {
+      .author-box a {
+        float: left;
+        margin-top: 0.3125em; } }
+
+@media (min-width: 768px) {
+  .author {
+    width: 74%;
+    padding-left: 2.5em;
+    float: left; } }
+@media (min-width: 968px) {
+  .author {
+    width: 80%; } }
+.author__name {
+  color: #525559;
+  font-size: 1.5em;
+  margin-bottom: 0.375em;
+  display: block; }
+  @media (min-width: 1px) and (max-width: 768px) {
+    .author__name {
+      text-align: center;
+      margin-top: -0.75em;
+      margin-bottom: 1em; } }
+.author__bio {
+  font-size: 1em; }
 
 @media (min-width: 1px) and (max-width: 768px) {
   .is-displayed-mobile {
