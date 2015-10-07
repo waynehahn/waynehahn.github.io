@@ -9,7 +9,7 @@ layout: default
     <header class="post__header">
       <h1 class="post__title--grouped">{{ page.title }}</h1>
       <div class="post__meta">
-				<b class="post_author">{% if page.author %}{{ author.name }}{% endif %}</b>
+				<b class="post__author">{% if page.author %}{{ page.author }}{% endif %}</b>
         <b class="post__sep">&#x25cf;</b>
         <b class="post__date">{{ page.date | date: "%b %-d, %Y" }}</b>
       </div>
@@ -19,10 +19,6 @@ layout: default
     {% endif %}
     <article class="post__content">
       {{ content }}
-
-			
-			{% include author-box.html %}
-
     </article>
 		{% include share-page.html %}
 		<p></p>

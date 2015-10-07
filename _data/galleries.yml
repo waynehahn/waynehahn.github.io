@@ -1,0 +1,16 @@
+#Photo Gallery
+
+- id: gallery
+  description: This is Wayne's Photo Gallery
+  imagefolder: /img/gallery
+  images:
+  - name: image-1.jpg
+    thumb: thumb-1.jpg
+    text: Wayne &and; Frani at Eataly, NYC
+  - name: image-2.jpg
+    thumb: thumb-2.jpg
+    text: Wayne & Nikki chilling at Bryant Park, NYC
+  - name: image-3.jpg
+    thumb: thumb-3.jpg
+    text: Hahn Family attending a wedding held at Raven's Stadium
+  permalink: gallery

@@ -25,7 +25,7 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      author: Frani
+      author: Frani Hahn
       layout: "post"
       comments: true
   -
