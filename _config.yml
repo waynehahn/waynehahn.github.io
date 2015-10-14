@@ -18,6 +18,11 @@ footer-links:
 markdown: kramdown
 permalink: /:title
 
+# Contact Section
+
+social:
+- {icon: 'facebook', link: 'http://facebook.com/wayne.hahn5'}
+
 #Default settings
 defaults:
   -
