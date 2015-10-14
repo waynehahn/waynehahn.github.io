@@ -1,6 +1,5 @@
 # Site settings
 title: Turning the Other Cheek
-name: Turning the Other Cheek
 description: Wayne's story about fighting colorectal cancer.
 url: "http://waynehahn.github.io"
 email: whahn09@gmail.com
@@ -22,7 +21,7 @@ permalink: /:title
 # Contact Section
 
 social:
-- {icon: 'facebook', link: 'http://facebook.com/wayne.hahn5'}
+  icon: 'facebook', link: 'http://facebook.com/wayne.hahn5'
 
 #Default settings
 defaults:
