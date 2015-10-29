@@ -21,6 +21,4 @@ Water.  I told Dad if he can drink 3 Camelbak water bottles a day, he'll be so f
 
 Walking.  I preach to everyone to walk walk walk.  Even if you can walk up & down the street, that's good.  One of the first people with cancer I knew was going through a heavy chemo.  After each round, she would come home and walk her dog around Patterson Park. She walked daily.  I did the same even when it was snowing, and I credit that not only to coping, but to conquering the demons that try to come up when you go through chemotherapy.
 
-![Wayne and Frani walking to first chemo]({{ site.url }}/img/wayne-frani-first-chemo.jpg)
-
 He has 12 days left of his oral chemo pills, and then a week off.  Thankfully it's been an uneventful experience.  What has made this momentous has been the continuing love & positive words of encouragement you have sent to him.  We even have a friend who is doing distant Reiki on him.  As we always seem to end these posts, we thank all of you.  Your love and support helps give us the strength to handle this "blip" in our life.  We pray it's a small enough journey that it is nothing more than a footnote in our life's history.  When we look back, what we want most to remember is how wonderful you all were to us.
