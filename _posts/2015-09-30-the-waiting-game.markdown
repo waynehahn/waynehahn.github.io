@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Waiting Game
 date: 2015-09-30 02:10
 categories: pre

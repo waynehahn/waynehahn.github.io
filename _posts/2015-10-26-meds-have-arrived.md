@@ -1,5 +1,6 @@
 ---
 title: "The Meds Have Arrived"
+date:   2015-10-26
 category:pre
 author:Frani Hahn
 ---
