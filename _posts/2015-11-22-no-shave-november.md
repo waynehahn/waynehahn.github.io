@@ -5,7 +5,7 @@ title: "No Shave November"
 category: treatment
 author: Frani Hahn
 ---
-[No Shave November](https://www.no-shave.org/)
+
 Well, Nikki decided that for the Prostate Cancer Awareness Month, Wayne should join the [No Shave November](https://www.no-shave.org/).  That didn't take too much persuasion!  He looks cute, older but still real cute.  His skin is very sensitive and he was advised to refrain from shaving.  He might not be shaving, but that extra bit still needs some styling.  He's not ready for "Whisker Wars" yet!
 
 ![Whisker-Wayne]({{ site.url }}/img/whisker-wayne.jpg)
@@ -24,7 +24,7 @@ He also had an appointment with Dr. Donehower, his most compassionate oncologist
 I guess it couldn't all go so perfect.  On Friday Wayne woke up in the early morning with cramps in his calves.  The pain was intense.  We tried the heating pad but by 6 pm he couldn't take it anymore.  Nikki & I took him to GBMC Emergency upon advice from doctor on duty at Hopkins.  We needed to get his electrolytes checked and to make sure there weren't any blood clots (which unfortunately is a very real side affect from the chemo). Luckily it was a visit that clocked under 4 hours!  Nikki & I were a wreck that he'd pick up germs, but would not wear a face mask!
 
 >*Nikki's retelling:*
->>"He’s our rock, so it’s really been hard for me to adjust to seeing him sometimes get weakened by the Oxaliplatin.  But you would love, even though he can’t touch anything cold, he quickly puts on his gloves to open doors for mom & I.  Even when we went to the hospital & he could barely walk, he refused being dropped off or being transported in a wheel chair.  Even going in, he held the door for Mom & me."
+    "He’s our rock, so it’s really been hard for me to adjust to seeing him sometimes get weakened by the Oxaliplatin.  But you would love, even though he can’t touch anything cold, he quickly puts on his gloves to open doors for mom & I.  Even when we went to the hospital & he could barely walk, he refused being dropped off or being transported in a wheel chair.  Even going in, he held the door for Mom & me."
 
 All in all the doctor on charge said to just rest and use the heating pad for the pain in his calves.  This was just another side effect from the chemo infusion drug. Whew. 🙀 Never a dull moment around here!  But it could be worse so we are not complaining.  Just, please remember to get your colonoscopy.  Don't wait for 10 years.  Remember that Wayne had no symptoms, it doesn't run in his family.  It just showed up like an unwelcome guest who sneaked in and doesn't want to leave.  There is a CAE blood test to check that out.  I'm not sure why it's not a routine check for all of us. 
 
