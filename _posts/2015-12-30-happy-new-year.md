@@ -1,8 +1,9 @@
 
 ---
-title:  Happy New Year to All
-category: treatment
+layout: post
+title:  "Happy New Year to All"
 date: 2015-12-30
+category: treatment
 ---
 
 ![Wayne and Frani enjoying vino at Grand Cru]({{ site.url }}/img/wnfcelebrate.jpg)
@@ -26,5 +27,6 @@ As soon as we hear word from Dr. Efron, his colorectal surgeon, we will post aga
 
 From our family to you,
 Happy 2016,
+
 With love, Frani, Wayne & Nikki
  
