@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title:  "Happy New Year to All"
+title: "Happy New Year to All"
 date: 2015-12-30
 category: treatment
 ---
