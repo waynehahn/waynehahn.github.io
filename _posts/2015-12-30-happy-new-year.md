@@ -3,8 +3,8 @@
 title:  Happy New Year to All
 category: treatment
 date: 2015-12-30
-author: Frani Hahn
 ---
+
 ![Wayne and Frani enjoying vino at Grand Cru]({{ site.url }}/img/wnfcelebrate.jpg)
 
 
