@@ -4,8 +4,10 @@ category: treatment
 date: 2015-12-30
 author: Frani Hahn
 image:
-  feature: "/img/wnfcelebrate.jpg"
+  feature: 
 ---
+![Wayne and Frani enjoying vino at Grand Cru]({{ site.url }}/img/wnfcelebrate.jpg)
+
 
 Happy New Year to everyone!  As always we thank you for all your prayers, all of your well-wishes, all of your support.  We have some really good news for you.  As good as Wayne's CEA count was last time, it gets even better.  
 
