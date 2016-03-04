@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 16-03-04
+date: 2016-03-04
 title: "Near The End Of The Road Part One"
-category: chemo
+category: treatment
 author: Frani Hahn
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Waiting Stage"
-date: 2015-09-21 Waiting Stage
+date: 2015-09-21
 categories: pre
 author: Frani Hahn
 ---

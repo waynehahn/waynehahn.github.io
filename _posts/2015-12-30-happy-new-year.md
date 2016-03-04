@@ -10,7 +10,7 @@ category: treatment
 
 Happy New Year to everyone!  As always we thank you for all your prayers, all of your well-wishes, all of your support.  We have some really good news for you.  As good as Wayne's CEA count was last time, it gets even better.  
 
-Wayne went for a CT scan along with his bloodwork on Monday.  Today he is having his 4th round of chemo.  Before he has chemo, Dr. Donehower, his oncologist, meets with us to discuss the results of his labwork.  Today's discussion included his CT scan.  We are proud to say that there is no trace of cancer on his liver.  He said Wayne's liver specialist, Dr. He, will still remove that sliver of his liver where the cancer was (in this case it's good to use past tense!).   The cancer on the lower colon area has *SHRUNK*!!!!  It has gone from 1.5cm to 1.0cm in thickness!!! 
+Wayne went for a CT scan along with his bloodwork on Monday.  Today he is having his 4th round of chemo.  Before he has chemo, Dr. Donehower, his oncologist, meets with us to discuss the results of his labwork.  Today's discussion included his CT scan.  We are proud to say that there is no trace of cancer on his liver.  He said Wayne's liver specialist, Dr. He, will still remove that sliver of his liver where the cancer was (in this case it's good to use past tense!).   The cancer on the lower colon area has *SHRUNK*!!!!  It has gone from 1.5cm to 1.0cm in thickness!!!
 
 Dr. Donehower said that he couldn't believe 2 months into treatment,  Wayne would have as good an outcome as that so soon.  He also said that the conversation begins of curing Wayne of cancer.  Dr. Donehower has a tiny office, and it got smaller by four wide smiles in that room!
 
@@ -28,4 +28,3 @@ From our family to you,
 Happy 2016,
 
 With love, Frani, Wayne & Nikki
- 
