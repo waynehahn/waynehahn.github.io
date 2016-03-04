@@ -5,10 +5,9 @@ title: "No Shave November"
 category: treatment
 author: Frani Hahn
 ---
+![Whisker-Wayne]({{ site.url }}/img/whisker-wayne.jpg)
 
 Well, Nikki decided that for the Prostate Cancer Awareness Month, Wayne should join the [No Shave November](https://www.no-shave.org/).  That didn't take too much persuasion!  He looks cute, older but still real cute.  His skin is very sensitive and he was advised to refrain from shaving.  He might not be shaving, but that extra bit still needs some styling.  He's not ready for "Whisker Wars" yet!
-
-![Whisker-Wayne]({{ site.url }}/img/whisker-wayne.jpg)
 
 Wayne's white blood count dropped a bit this month.  It should be 4.50 but it is 4.03.  This may be the reason for his short naps!  😊  
 He looks wonderful, always ready to go somewhere & he refuses to stay home to lay around.  He remains so positive which makes life much easier for Nikki and I.  When he is doing good, we are doing good.  I do believe that God put us on this earth to be caretakers and we are good at that job, after 4 parents, Nikki's bout with breast cancer and now Wayne, I believe all that should have earned us the halo, at least!  👼
