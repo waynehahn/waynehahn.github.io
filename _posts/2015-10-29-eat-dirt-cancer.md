@@ -1,7 +1,7 @@
 ---
 title: "Eat Dirt, cancer!"
 date:  2015-10-29
-category:treatment
+category: treatment
 author:Nikki Hahn
 ---
 ![Dad and I at JHU chemo]({{ site.url }}/img/wayne-nikki-first-chemo.jpg)
