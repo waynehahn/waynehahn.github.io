@@ -4,8 +4,8 @@ date: 16-03-04
 title: "Near The End Of The Road Part One"
 category: chemo
 author: Frani Hahn
-image: decfamselfie.jpg
 ---
+![December Family Selfie]({{ site.imageurl }}/images/decfamselfie.jpg)
 
 Our final chemo treatment was over back on December 30, 2015.  None of us miss it, especially Wayne. We do miss visiting with Dr. Donehower, Wayne's oncologist, with his meticulous care and positive personality!
 
