@@ -1,10 +1,9 @@
 ---
 title: "Eat Dirt, cancer!"
-date:   2015-10-29
+date:  2015-10-29
 category:treatment
 author:Nikki Hahn
 ---
-
 ![Dad and I at JHU chemo]({{ site.url }}/img/wayne-nikki-first-chemo.jpg)
 
 You would have thought we were getting ready for a trip.  Everyone got up & got ready without the usual dreary morning feeling.  Even in the waking hours we remain positive.  Only the cats were confused when we left, "where are our treats?"  "Where is our mound of food."  They know the only time the 3 of us leave that early, it must mean trip which equals tons of food for them.

@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 15-11-22
+date: 2015-11-22
 title: "No Shave November"
 category: treatment
 author: Frani Hahn
