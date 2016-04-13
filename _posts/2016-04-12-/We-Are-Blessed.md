@@ -5,7 +5,10 @@ date: 2016-04-12
 category: post-surgery
 ---
 
-![Hahn Family w/Tam]({{ site.url }}/img/image.jpeg)
+ <figure>
+	<img src="/img/image.jpeg">
+	<figcaption>We are posing with Tam, who is Dr. Efron's surgical assistant. She embodies all that makes a fabulous nurse.  </figcaption>
+</figure>
 
 We waited anxiously for March 18th, the day that we prayed Dr Efron would be able to get the cancer out.  Dr. He was able to scan Wayne's liver, they took out 27 lymph nodes and they were all clear!  Dr. Efron is not only an excellent Colorectal Surgeon but an artist too!  His scar, which runs just under his chest about 12 inches long, is healing beautifully with his belly button in tact! 😊. Everyone was amazed by this!
 
